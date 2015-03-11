@@ -1,3 +1,1 @@
-# base_python
-Workshop: Python
-Creator: Josiah Davis
+# Introduction to Base Python
